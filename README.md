@@ -1,4 +1,4 @@
-# projeto_mapeamento_de_rede
+
 Projeto Técnico: Mapeamento de Rede Corporativa – Lab Docker
 Este projeto é parte da Trilha de Formação em Cybersecurity – Módulo 1.
 O objetivo é simular uma rede corporativa segmentada com estações de trabalho, servidores e dispositivos pessoais para que você possa treinar suas habilidades de reconhecimento e análise de exposição.
